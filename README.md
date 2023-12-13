@@ -23,6 +23,7 @@ Key Learning Outcomes
 Basic ML concepts and their practical applications.
 Foundational techniques in regression and CNNs.
 Image enhancement techniques for data pre-processing.
+
 Internship Projects with L&T Technology Services
 Overview
 My internship with L&T Technology Services involved a range of challenging and innovative projects in Machine Learning and Artificial Intelligence, providing hands-on experience with state-of-the-art technologies and methodologies.
