@@ -1,55 +1,68 @@
-AIML PROJECTS Repository
-Basics of Machine Learning
-Overview
-This section serves as a fundamental introduction for beginners in Machine Learning (ML). It includes various introductory projects and key ML concepts, aimed at providing practical understanding of fundamental techniques in the field.
 
-Projects and Concepts
-1. Basic Regression Models
-Comprehensive code examples illustrating fundamental regression techniques.
-Projects include simple linear regression models to predict outcomes based on input data.
-Focus on understanding model training, error evaluation, and prediction.
-2. Basic Convolutional Neural Networks (CNNs) using Keras
-Introduction to CNNs with practical code examples using Keras.
-Key applications:
-a. Digit Recognition: Implementing CNNs for handwritten digits recognition using the MNIST dataset.
-b. Clothes Prediction: Classifying clothing items using the Fashion MNIST dataset.
-Emphasis on understanding CNN architectures, layer functions, and training processes.
-3. Image Enhancement Techniques
-Advanced image processing techniques for quality enhancement.
-Techniques include:
-a. CLAHE (Contrast Limited Adaptive Histogram Equalization): Enhancing image contrast.
-b. Bilateral Filtering: Reducing noise while maintaining sharp edges.
-Key Learning Outcomes
-Basic ML concepts and their practical applications.
-Foundational techniques in regression and CNNs.
-Image enhancement techniques for data pre-processing.
+---
 
-Internship Projects with L&T Technology Services
-Overview
-My internship with L&T Technology Services involved a range of challenging and innovative projects in Machine Learning and Artificial Intelligence, providing hands-on experience with state-of-the-art technologies and methodologies.
+# **AIML Projects Repository**
 
-Project Descriptions
-1. Question and Answer Generator
-Objective: Develop a system to generate questions and answers from unstructured documents.
-Implementation: Used LLM (llama13b chat hf) for complex text processing and understanding.
-Outcome: Enhanced information extraction and knowledge management processes.
-2. LLM Ingestion Pipeline
-Purpose: Improve LLM's comprehension of text in tables.
-Approach: Developed a pipeline for structured data understanding.
-Result: Improved LLM's table-based information processing and interpretation.
-Advanced Machine Learning Projects
-1. Generative Adversarial Networks (GANs)
-Scope: Image generation using the MNIST dataset.
-Technology: Developed with TensorFlow, focusing on neural network architecture and training.
-2. Conditional GANs (CGANs)
-Dataset: CIFAR dataset for image generation.
-Challenges: Addressed training stability and image diversity.
-Innovation: Explored techniques to improve model performance and output quality.
-3. Stable Diffusion Models
-Applications: Text-to-Image and Image-to-Image conversions.
-Key Features: Detailed, realistic image creation for creative AI applications.
-4. LLM Fine-Tuning
-Techniques: LORA and QLORA fine-tuning.
-Models: Applied on FLAN-T5 BASE and BLOOM 560M models.
-Focus: Enhance model performance for specific tasks and datasets.
-This README provides a comprehensive overview of your projects and experiences, highlighting your contributions and the technologies you've worked with. It's structured to guide readers through your journey in AI and ML, showcasing your skills and knowledge in the field.
+## Overview
+
+This repository is a collection of mini-projects developed as part of my journey to build a strong foundation in Artificial Intelligence (AI) and Machine Learning (ML). It includes a variety of introductory projects aimed at understanding key ML concepts and progressing towards more advanced techniques. These projects cover basics like regression models, convolutional neural networks (CNNs), and image enhancement techniques, as well as more complex tasks tackled during my internship with **L&T Technology Services**, such as working with Generative Adversarial Networks (GANs) and Large Language Models (LLMs).
+
+## Basics of Machine Learning
+
+### 1. **Basic Regression Models**
+   - **Overview**: A comprehensive introduction to regression techniques.
+   - **Projects**: Includes simple linear regression models for predicting outcomes based on input data.
+   - **Focus**: Understanding model training, error evaluation, and making predictions.
+
+### 2. **Basic Convolutional Neural Networks (CNNs) using Keras**
+   - **Overview**: Hands-on projects to introduce CNNs.
+   - **Key Applications**:
+     - **Digit Recognition**: Implementing CNNs for handwritten digits recognition using the MNIST dataset.
+     - **Clothes Prediction**: Classifying clothing items using the Fashion MNIST dataset.
+   - **Focus**: CNN architecture, layer functions, and the training process.
+
+### 3. **Image Enhancement Techniques**
+   - **Techniques**:
+     - **CLAHE (Contrast Limited Adaptive Histogram Equalization)**: Enhancing image contrast.
+     - **Bilateral Filtering**: Reducing noise while maintaining sharp edges.
+   - **Focus**: Improving image quality through preprocessing techniques.
+
+### **Key Learning Outcomes**
+   - Understanding basic ML concepts and their practical applications.
+   - Gaining foundational skills in regression and CNNs.
+   - Exploring image enhancement techniques for data preprocessing.
+
+## Internship Projects with L&T Technology Services
+
+During my internship, I gained hands-on experience with innovative projects in AI and ML. These projects involved advanced text processing, data ingestion, and image generation techniques.
+
+### 1. **Question and Answer Generator**
+   - **Objective**: Develop a system to generate questions and answers from unstructured documents.
+   - **Implementation**: Utilized **LLM (Llama13b Chat HF)** for complex text understanding and processing.
+   - **Outcome**: Improved information extraction and knowledge management processes.
+
+### 2. **LLM Ingestion Pipeline**
+   - **Purpose**: Enhance LLM's comprehension of structured data in tables.
+   - **Approach**: Built a pipeline for better understanding and processing of table-based information.
+   - **Result**: Improved LLM performance in extracting and interpreting data from tables.
+
+## Advanced Machine Learning Projects
+
+### 1. **Generative Adversarial Networks (GANs)**
+   - **Scope**: Developed models for image generation using the MNIST dataset.
+   - **Technology**: Built using **TensorFlow**, focusing on GAN architecture and training.
+
+### 2. **Conditional GANs (CGANs)**
+   - **Dataset**: Utilized the CIFAR dataset for conditional image generation.
+   - **Challenges**: Tackled issues with training stability and image diversity.
+
+### 3. **Stable Diffusion Models**
+   - **Applications**: Applied for text-to-image and image-to-image conversions.
+   - **Key Features**: Generated detailed and realistic images, useful in creative AI applications.
+
+### 4. **LLM Fine-Tuning**
+   - **Techniques**: Employed **LORA** and **QLORA** fine-tuning techniques.
+   - **Models**: Fine-tuned **FLAN-T5 BASE** and **BLOOM 560M** models.
+   - **Focus**: Enhancing model performance on specific tasks and datasets.
+
+---
